@@ -1,0 +1,40 @@
+body {
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #86BC69;
+	color: #333;
+	font-family: 'calibri';
+
+}
+
+button {
+	cursor: pointer;
+	border-radius: 5px;
+	border: none;
+	color: white;
+	background-color: #86BC69;
+	font-family: 'calibri';
+	padding: 5px 15px;
+	font-size: 1.3em;
+}
+
+#title {
+	color: #86BC69;
+}
+
+#quote {
+	background-color: lightgrey;
+	padding: 10px 10px;
+	border-left: 8px solid #86BC69;
+	border-radius: 7px;
+}
+
+.container {
+	text-align: center;
+	background-color: white;
+	padding: 5px 25px;
+	border-radius: 7px;
+
+}
